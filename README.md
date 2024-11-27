@@ -17,5 +17,5 @@ This project provides a dynamic camera management solution using Python, Tkinter
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DaniPNR/dynamic-camera-manager-
    cd project_directory
